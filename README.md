@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,html,css,pandas,numpy,sklearn,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,pandas,numpy,vscode,git,github&theme=dark" />
 </a>
 
 <br/><br/>
@@ -21,9 +21,6 @@
 
 <a href="mailto:altamashr06@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Email Me" style="margin-right: 20px;"/>
-</a>
-<a href="https://linkedin.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" alt="LinkedIn"/>
 </a>
 
 </div>
