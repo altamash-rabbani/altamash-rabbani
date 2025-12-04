@@ -7,20 +7,13 @@
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,html,css,pandas,numpy,vscode,git,github&theme=dark" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/altamash-rabbani">
-  <img src="https://github-readme-stats.vercel.app/api?username=altamash-rabbani&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamash-rabbani&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,pandas,numpy,sklearn,vscode,git,github&theme=dark" />
 </a>
 
 <br/><br/>
 
 <a href="mailto:altamashr06@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Email Me" style="margin-right: 20px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Email Me"/>
 </a>
 
 </div>
